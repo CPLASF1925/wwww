@@ -9,4 +9,5 @@ package com.bril.coroutines;
  */
 class TTT {
 private int qq;
+  private int aa;
 }
